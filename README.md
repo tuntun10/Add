@@ -1,2 +1,2 @@
-#practice session in react.js Add
+#Add
 user information practice in react.js
